@@ -1,2 +1,2 @@
-# flamingostech_website
-custom angular13 website implement.
+# FlamingosTech
+FlamingosTech Website
